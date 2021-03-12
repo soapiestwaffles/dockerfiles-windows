@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/windows/nanoserver:1909
+FROM mcr.microsoft.com/windows/servercore:1909
 
 ENV GIT_VERSION 2.15.1
 ENV GIT_PATCH_VERSION 2
